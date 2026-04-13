@@ -1,9 +1,9 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Bem-vindo ao Jekyll!
+
+#Este arquivo de configuração é destinado a definições que afetam todo o seu site, ou seja, 
+#valores que você configura uma vez e raramente precisa alterar depois disso.
+#Por razões técnicas, este arquivo *NÃO* é recarregado automaticamente quando você usa 
+#`jekyll serve`. Se você modificar este arquivo, será necessário reiniciar o processo do servidor.
 
 # Site Settings
 locale                   : "pt-BR"
